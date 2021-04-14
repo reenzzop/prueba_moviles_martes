@@ -2,3 +2,4 @@ Bienvenidos a Git
 Renzo Ponce
 
 Resido en Trujillo - Las Quintanas
+Programador movil
